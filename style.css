@@ -1,0 +1,98 @@
+.container-fluid {
+  padding: 60px 40px 30px 40px;
+}
+
+body {
+    background-image: url("http://www.clipartkid.com/images/656/whisper-clip-art-2014-clipart-best-download-HXwUSP-clipart.jpeg");
+  background-size: cover;
+  backgroud-repeat: no-repeat;
+  font-family: 'Arial';
+}
+
+.bg-0 {
+  background-color: #999999;
+  color: #ffffff;
+  opacity: 0.95;
+  padding: 20px;
+}
+
+.bg-1 {
+  background-color: #999999;
+  color: #ffffff;
+  opacity: 0.95;
+}
+
+.bg-2 {
+  background-color: #F4EEE1;
+  color: #000000;
+  opacity: 0.95;
+}
+
+.bg-3 {
+  background-color: #EFEEEE;
+  color: #000000;
+  opacity: 0.95;
+}
+
+.bg-4 {
+  background-color: #D3C4BE;
+  color: #000000;
+  opacity: 0.95;
+}
+
+h1 {
+  font-size: 75px;
+  font-family: 'Sofia';
+}
+
+p {
+  padding: 20px 0px 0px 0px;
+  font-family: 'Raleway';
+}
+
+#quote {
+  font-family: 'Sofia';
+  margin-left: 100px;
+}
+
+#statistic {
+  font-size: 8px;
+}
+
+#icons {
+  font-size: 50px;
+}
+
+#icons p {
+  font-size: 16px;
+}
+
+#testimonials {
+  font-size: 18px;
+  font-style: italic;
+}
+
+#contact-email {
+    font-size: 28px;
+}
+
+a {
+  font-family: 'Raleway';
+  color: #000000;
+  background-color: #EFEEEE;
+  border: solid 5px #EFEEEE;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+a:hover {
+  background-color: #ADD8E6;
+  border: solid 5px #ADD8E6;
+}
+
+footer {
+    font-family: 'Raleway';
+    font-size: 12px;
+    padding-top: 20px;
+    text-decoration:overline;
+}
