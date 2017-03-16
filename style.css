@@ -5,7 +5,7 @@
 body {
     background-image: url("http://www.clipartkid.com/images/656/whisper-clip-art-2014-clipart-best-download-HXwUSP-clipart.jpeg");
   background-size: cover;
-  backgroud-repeat: no-repeat;
+  background-repeat: no-repeat;
   font-family: 'Arial';
 }
 
@@ -40,7 +40,7 @@ body {
   opacity: 0.95;
 }
 
-h1 {
+#title {
   font-size: 75px;
   font-family: 'Sofia';
 }
@@ -76,18 +76,18 @@ p {
     font-size: 28px;
 }
 
-a {
+a:link {
   font-family: 'Raleway';
   color: #000000;
   background-color: #EFEEEE;
-  border: solid 5px #EFEEEE;
+  border: solid 2px #EFEEEE;
   border-radius: 5px;
   padding: 10px;
 }
 
 a:hover {
   background-color: #ADD8E6;
-  border: solid 5px #ADD8E6;
+  border: solid 2px #ADD8E6;
 }
 
 footer {
